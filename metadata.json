@@ -1,0 +1,7 @@
+{
+  "name": "iTrack Kleinanzeigen",
+  "description": "Real-time iPhone market tracker for Kleinanzeigen using Gemini Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
